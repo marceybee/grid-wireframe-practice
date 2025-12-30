@@ -1,0 +1,40 @@
+body {
+    background-color: #b2b6bf;
+}
+.container {
+    display: grid;
+    grid-template-columns: auto;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 10%;
+}
+header {
+    background-color: #9e2063;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.article-container {
+    background-color: #24b57b;
+    padding: 10px;
+    border-radius: 10px; 
+    margin-bottom: 10px;
+}
+article {
+    background-color: #e3195c;
+    margin: 10px;
+    border-radius: 10px;
+}
+.aside1 {
+    background-color: #116395;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.aside2 {
+    background-color: #24a4b5;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+footer {
+    background-color: #e06a26;
+    border-radius: 10px; 
+}
